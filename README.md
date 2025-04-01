@@ -1,6 +1,6 @@
 ## 👋 About Me
 ________________________________________
-## 🚀 Full-Stack Developer | Machine Intelligence | Cybersecurity Enthusiast | Problem-Solver
+🚀 **Full-Stack Developer | Machine Intelligence | Cybersecurity Enthusiast | Problem-Solver**
 
 Hello! I'm Rotimi Salimon, a Full-Stack Developer with expertise in frontend and backend development, database management, machine intelligence, and cybersecurity best practices. My passion lies in building secure, scalable, and high-performance web applications integrated with machine learning that deliver an exceptional user experience while ensuring robust data protection.<br><br>
 With hands-on experience in HTML, CSS, JavaScript, JavaScript Frameworks (such as Angular, React.js, Next.js), Node.js, Dart, Python, and a range of databases (MongoDB, MySQL, and SQL Server), I thrive in developing dynamic and responsive web and mobile applications that solve real-world problems. Additionally, my growing cybersecurity knowledge allows me to integrate secure coding principles, network security, and ethical hacking techniques into development workflows.<br><br>
@@ -16,7 +16,7 @@ ________________________________________
 **•	Version Control & Collaboration:** Proficient in Git, GitHub, and Docker.<br>
 **•	UI/UX & Performance Optimization:** Strong focus on responsive design, accessibility, and user-friendly interfaces.<br>
 ________________________________________
-## 📫 Let's Connect!
+## 🌍 Let's Connect!
 <div>
   <a href="https://github.com/salimonrotimi" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
