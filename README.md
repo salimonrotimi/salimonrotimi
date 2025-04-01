@@ -1,5 +1,6 @@
-## 👋 About Me
 ________________________________________
+## 👋 About Me
+
 🚀 **Full-Stack Developer | Machine Intelligence | Cybersecurity Enthusiast | Problem-Solver**
 
 Hello! I'm Rotimi Salimon, a Full-Stack Developer with expertise in frontend and backend development, database management, machine intelligence, and cybersecurity best practices. My passion lies in building secure, scalable, and high-performance web applications integrated with machine learning that deliver an exceptional user experience while ensuring robust data protection.<br><br>
